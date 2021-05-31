@@ -26,4 +26,4 @@ First we made wireframes for each page in P3_01_wireframes.pdf bases on the Lear
 After the wireframes, we made the user cases in P3_03_User Cases.pdf
 
 ### User Stories
-Third, we've written the user stories and finaly we've made the kanban based on thoose user stories
+Third, we've written the user stories in P3_02_User Stories.docx and finaly we've made the kanban based on thoose user stories in the Project of Github
